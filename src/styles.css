@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+
+form{
+  text-align: center;
+  margin-top: 150px;
+}
+
+h1{
+  text-align: center;
+}
+
+.robot-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 45px;
+  gap: 15px;
+}
+
+.robo-button{
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
